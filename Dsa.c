@@ -72,7 +72,7 @@ int main()
     append(&head, 3);
     append(&head, 4);
     traverse(head);
-    printf("\n"); `
+    printf("\n");
     add_node(2,5,&head);
     traverse(head);
     printf("\n");
